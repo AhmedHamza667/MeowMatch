@@ -7,7 +7,7 @@ MeowMatch is built using HTML, CSS, and Bootstrap, ensuring a visually appealing
 
 ## Local Installation
 To install MeowMatch locally, follow these steps:
-1. Clone the repository from GitHub: `git clone https://github.com/username/MeowMatch.git`
+1. Clone the repository from GitHub: `git clone https://github.com/AhmedHamza667/MeowMatch.git`
 2. Navigate to the project directory: `cd MeowMatch`
 3. Install the necessary dependencies: `npm install`
 4. Start the development server: `npm start`
